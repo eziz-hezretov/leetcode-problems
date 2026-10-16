@@ -34,4 +34,8 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
