@@ -35,6 +35,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0058-length-of-last-word](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
