@@ -34,13 +34,19 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
