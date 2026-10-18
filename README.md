@@ -45,9 +45,18 @@ My goal is to develop my skills and knowledge in the following:
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
