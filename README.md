@@ -34,8 +34,13 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
