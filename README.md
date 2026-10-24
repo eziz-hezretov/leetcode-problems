@@ -43,6 +43,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
