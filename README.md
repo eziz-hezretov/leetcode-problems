@@ -53,10 +53,12 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
