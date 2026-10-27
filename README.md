@@ -59,6 +59,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -72,4 +73,8 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
