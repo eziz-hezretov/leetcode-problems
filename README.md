@@ -45,12 +45,14 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -63,6 +65,7 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1929-concatenation-of-array) |
@@ -71,6 +74,7 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +96,12 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
