@@ -36,6 +36,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0058-length-of-last-word](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -51,6 +52,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
@@ -85,4 +87,9 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
