@@ -51,6 +51,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0383-ransom-note) |
@@ -64,6 +65,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -73,6 +75,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -90,6 +93,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -104,4 +108,12 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
