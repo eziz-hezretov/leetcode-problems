@@ -67,6 +67,7 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0344-reverse-string) |
 ## Prefix Sum
