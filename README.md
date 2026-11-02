@@ -51,6 +51,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
