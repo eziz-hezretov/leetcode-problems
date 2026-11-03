@@ -50,6 +50,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eziz-hezretov/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ My goal is to develop my skills and knowledge in the following:
 | [1929-concatenation-of-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eziz-hezretov/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
