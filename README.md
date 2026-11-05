@@ -128,4 +128,20 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
