@@ -48,6 +48,7 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
@@ -74,6 +75,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0001-two-sum](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
