@@ -41,6 +41,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0709-to-lower-case](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
