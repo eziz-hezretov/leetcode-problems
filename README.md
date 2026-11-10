@@ -52,6 +52,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2469-convert-the-temperature) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eziz-hezretov/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
