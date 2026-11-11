@@ -52,6 +52,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2469-convert-the-temperature) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eziz-hezretov/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -152,4 +153,8 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0100-same-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
