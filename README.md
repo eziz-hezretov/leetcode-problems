@@ -33,6 +33,7 @@ My goal is to develop my skills and knowledge in the following:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0344-reverse-string) |
@@ -77,6 +78,7 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0066-plus-one) |
@@ -177,4 +179,8 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
