@@ -81,6 +81,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0014-longest-common-prefix](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -126,6 +127,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
