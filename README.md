@@ -52,6 +52,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
@@ -185,4 +186,12 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
