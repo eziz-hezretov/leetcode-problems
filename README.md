@@ -87,6 +87,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1929-concatenation-of-array) |
@@ -190,6 +191,7 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
