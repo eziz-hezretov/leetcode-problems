@@ -55,6 +55,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2469-convert-the-temperature) |
@@ -196,4 +197,8 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
