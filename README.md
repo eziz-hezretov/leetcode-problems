@@ -200,5 +200,10 @@ My goal is to develop my skills and knowledge in the following:
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
