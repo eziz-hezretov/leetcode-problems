@@ -47,6 +47,7 @@ My goal is to develop my skills and knowledge in the following:
 | [1678-goal-parser-interpretation](https://github.com/eziz-hezretov/leetcode-problems/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Math
 |  |
 | ------- |
