@@ -53,6 +53,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0009-palindrome-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -133,6 +134,7 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -217,4 +219,8 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
