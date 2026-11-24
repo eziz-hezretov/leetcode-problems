@@ -86,6 +86,7 @@ My goal is to develop my skills and knowledge in the following:
 | [0027-remove-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -150,6 +152,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0100-same-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +168,7 @@ My goal is to develop my skills and knowledge in the following:
 | ------- |
 | [0100-same-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -207,4 +211,8 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
