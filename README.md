@@ -33,6 +33,7 @@ My goal is to develop my skills and knowledge in the following:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0058-length-of-last-word) |
@@ -107,6 +108,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -198,6 +200,7 @@ My goal is to develop my skills and knowledge in the following:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
@@ -224,4 +227,8 @@ My goal is to develop my skills and knowledge in the following:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0069-sqrtx) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/eziz-hezretov/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
